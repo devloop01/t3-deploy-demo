@@ -1,5 +1,7 @@
 # Create T3 App
 
+[Follwed This Tutorial](https://www.youtube.com/watch?v=ZWBYu2yFpDs&ab_channel=Doug%27sCodingCorner)
+
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
